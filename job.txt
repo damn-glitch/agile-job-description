@@ -1,0 +1,29 @@
+Software developer
+Job description
+We are looking for an adept Software Developer. You will develop top-notch software that work across platforms and is scalable.
+
+Review current systems to correct errors within the existing program.
+Conduct pilot tests to assess the functionality of newly developed programs.
+Document programs scripts, including, drafts, revisions and final directions.
+Write new programs with clean and testable codes that will integrate the existing software systems.
+Monitor newly launched programs.
+Perform maintenance activities for new and existing programs.
+Upgrade systems in order to adapt to new business requirements.
+Help write training manuals in order to train new users.
+
+Job benefits:
+[X] salary
+[X] vacation days
+Sick, personal, and parental leave
+Child and elder care
+Health insurance
+Retirement plans
+Professional development
+
+Job requirements:
+[X] year(s) experience in developing software.
+A strong portfolio of published products and projects.
+Advanced level of understanding with C++, PHP, JavaScript, and Python.
+In-depth knowledge of SQL, ORM technologies, and common web frameworks.
+Excellent verbal and written communication in [X] language.
+[X] degree in Computer Science or relevant fields.

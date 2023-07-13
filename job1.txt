@@ -1,0 +1,32 @@
+Front-end developer
+Job description
+We are looking for a dynamic front-end developer. You will work on a diverse set of unique and challenging projects that allow users to seamlessly interact with technology.
+
+Work on the full life cycle development of time-sensitive projects.
+Recommend appropriate technologies to implement new features.
+Develop code libraries that can be used for multiple projects.
+Review code, layout, and design for projects before client meetings.
+Build, deliver, and iterate to help scale projects.
+Contribute to a team of back-end developers, designers, project managers, and sales representatives.
+Provide regular updates and technical support for new clients up to one month after product development.
+Create new methods for improving efficiency.
+
+Job benefits:
+[X] salary
+[X] vacation days
+Sick, personal, and parental leave
+Child and elder care
+Health insurance
+Retirement plans
+Professional development
+
+Job requirements:
+Expert knowledge of JavaScript, CSS3, HTML5, and/or Node.js.
+Familiarity with new frameworks and prototyping tools.
+Ability to translate mockups into seamless web pages with perfect visual and functional elements.
+Ability to find solutions to the new challenges daily.
+Experience in building large and modular codebases.
+Strong understanding of REST APIs and knowledge of how to interface with them.
+Experience with Back-End Development is a plus.
+[X] year(s) experience working in Front-End Development.
+Excellent verbal and written communication in [X] language.
