@@ -43,7 +43,7 @@ def search_github_users(query, page):
         "q": query,
         "sort": "joined",
         "order": "desc",
-        "per_page": 30,
+        "per_page": 100,
         "page": page
     }
     response = requests.get(SEARCH_USERS_URL, params=params)
@@ -55,8 +55,10 @@ def search_github_users(query, page):
     return data.get("items", [])
 
 
+
+
 def main():
-    job_description = "Full-stack web developer with at least 3 years of experience in JavaScript, HTML, CSS, and Python. Knowledge of React.js and Django is a plus."
+    job_description = "electronics engineer with decent experience in programming and teaching. Currently I am working as Machine learning Engineer at Nazarbayev University."
     language = "Python"
     query = f"language:{language}"
     total_found = 0
